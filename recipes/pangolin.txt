@@ -1,6 +1,14 @@
 Emma's Buffalo Chicken Dip
 ----------------------------
 <<<<<<< HEAD
+<<<<<<< HEAD
+2 lbs beef round steak, chuck
+3 1/4 cups flour
+
+Directions:
+9. SPATZLE: Sift flour, salt, and nutmeg.
+12. Force through large-hole colander into a pot of rapidly boing salted water.
+=======
 Time: 2 hours
 
 2 tablespoons oil or 2 tablespoons butter
@@ -23,6 +31,7 @@ grated zest of lemon (to garnish)
 3. Add meat cubes and brown.
 6. Add stock or enough water just to cover meat.
 
+>>>>>>> b893f2d32073da8ada5e9af3ec92efc471839cfa
 =======
 Servings: 4-6
 

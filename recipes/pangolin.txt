@@ -1,8 +1,27 @@
 Emma's Buffalo Chicken Dip
 ----------------------------
+<<<<<<< HEAD
 2 lbs beef round steak, chuck
 3 1/4 cups flour
 
 Directions:
 9. SPATZLE: Sift flour, salt, and nutmeg.
 12. Force through large-hole colander into a pot of rapidly boing salted water.
+=======
+Servings: 4-6
+
+1/2 teaspoon caraway seed
+salt and pepper
+1/4-1/2 teaspoon nutmeg
+4 eggs, beaten
+
+8. Add additional flour to adjust the consistency, if desired.
+10. Beat in eggs.
+14. Remove with slotted spoon.
+
+Ingredients:
+3 tablespoons instantized flour
+
+Directions:
+11. Add enough milk to make a heavy dough or batter.
+>>>>>>> 3f65770b92f0a2718a46ceba3e8626c7b3924dd2

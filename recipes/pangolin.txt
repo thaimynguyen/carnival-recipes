@@ -1,6 +1,5 @@
 Emma's Buffalo Chicken Dip
 ----------------------------
-<<<<<<< HEAD
 Time: 2 hours
 
 2 tablespoons oil or 2 tablespoons butter
@@ -23,7 +22,6 @@ grated zest of lemon (to garnish)
 3. Add meat cubes and brown.
 6. Add stock or enough water just to cover meat.
 
-=======
 Servings: 4-6
 
 1/2 teaspoon caraway seed
@@ -40,4 +38,3 @@ Ingredients:
 
 Directions:
 11. Add enough milk to make a heavy dough or batter.
->>>>>>> 3f65770b92f0a2718a46ceba3e8626c7b3924dd2

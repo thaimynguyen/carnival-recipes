@@ -1,6 +1,5 @@
 Emma's Buffalo Chicken Dip
 ----------------------------
-<<<<<<< HEAD
 Ingredients:
 1 lb sliced onion
 3 tablespoons instantized flour
@@ -18,7 +17,6 @@ salt and pepper
 1 tablespoon paprika
 1/2 tablespoon marjoram
 3 tablespoons tomato paste
-=======
 Servings: 4-6
 
 =======
@@ -42,27 +40,3 @@ Directions:
 13. Boil for 6-8 minutes.
 14. Remove with slotted spoon.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> b893f2d32073da8ada5e9af3ec92efc471839cfa
-
-
-
->>>>>>> 3f65770b92f0a2718a46ceba3e8626c7b3924dd2
